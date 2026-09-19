@@ -118,5 +118,26 @@ The Logistic Regression model achieved an accuracy of approximately 82.72% when 
 ### Clone the repository
 
 ```bash
+Install dependencies
+pip install -r requirements.txt
+Run the notebook
+
+Open:
+
+California_Housing_Price_Prediction.ipynb
+
+The dataset is downloaded automatically through Scikit-learn when the notebook is executed.
+
+Project Structure
+California-Housing-Price-Prediction/
+│
+├── California_Housing_Price_Prediction.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
+Author
+
+Aliya Khan
+
 git clone https://github.com/YOUR-USERNAME/California-Housing-Price-Prediction.git
 cd California-Housing-Price-Prediction
